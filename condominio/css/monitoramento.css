@@ -1,0 +1,20 @@
+.fora{
+    width: 90px;
+    background-color: #d91212;
+    text-align: center;
+}
+.dentro{
+    width: 90px;
+    background-color: #19aa03;
+    text-align: center;
+}
+.ativado{
+    width: 90px;
+    background-color: #19aa03;
+    text-align: center;
+}
+.desativado{
+    width: 90px;
+    background-color: #d91212;
+    text-align: center;
+}

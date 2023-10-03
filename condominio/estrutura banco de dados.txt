@@ -1,0 +1,3 @@
+create table cadastro( id int auto_increment primary key, usuario varchar(50), senha varchar(50),imagem varchar(50), nvl varchar(30), monitoramento varchar(30), tempo varchar(30), situacao varchar(20));
+
+create table visitante(id int auto_increment primary key, usuario varchar(50), morador varchar(50), imagem varchar(50), monitoramento varchar(30), situacao varchar(20));
